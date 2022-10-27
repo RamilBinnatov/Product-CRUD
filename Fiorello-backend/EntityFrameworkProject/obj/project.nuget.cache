@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "egpYebI5IYHhO92ZkKTGzKZCclRpEuC19jxP5ujOz8OwqpXL4wDR8CTNuQPwEyK13okWvmB/Rca+R94om0Hpmg==",
+  "dgSpecHash": "tWedCKGkFGlcVlxkuHAYFu67tejEXoFdABno8urIItBilnb7dD51wfL6EIMhYkz+4FitkxFCz7PWRBoimQtVIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Pagination\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\FiorelloDB\\Fiorello-backend\\EntityFrameworkProject\\EntityFrameworkProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

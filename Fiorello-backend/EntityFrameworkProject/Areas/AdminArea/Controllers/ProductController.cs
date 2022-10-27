@@ -190,7 +190,6 @@ namespace EntityFrameworkProject.Areas.AdminArea.Controllers
 
 
         [HttpGet]
-
         public async Task<IActionResult> Detail(int? id)
         {
             if (id == null)
@@ -199,10 +198,10 @@ namespace EntityFrameworkProject.Areas.AdminArea.Controllers
             }
 
             Product product = await _context.Products
-                .Where(m => m.IsDeleted)
+                .Where(m =>!m.IsDeleted && m.Id == id)
                 .Include(m=>m.ProductImages)
                 .Include(m => m.Category)
-                .FirstOrDefaultAsync(m => m.Id == id);
+                .FirstOrDefaultAsync();
 
             if (product == null)
             {

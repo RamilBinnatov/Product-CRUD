@@ -10,6 +10,6 @@
     "\\Fiorello-backend\\EntityFrameworkProject\\ViewModels",
     "\\Fiorello-backend\\EntityFrameworkProject\\ViewModels\\ProductViewModels"
   ],
-  "SelectedNode": "\\Fiorello-backend\\EntityFrameworkProject.sln",
+  "SelectedNode": "\\Fiorello-backend\\EntityFrameworkProject\\Areas\\AdminArea\\Controllers\\ProductController.cs",
   "PreviewInSolutionExplorer": false
 }
